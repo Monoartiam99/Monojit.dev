@@ -125,7 +125,10 @@ h1 {
     font-weight: 700;
     border-radius: 999px;
     padding: 0.75rem 1.1rem;
-    transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        background-color 0.2s ease;
 }
 
 .btn:hover {
